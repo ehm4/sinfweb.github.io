@@ -1,2 +1,0 @@
-# sinfweb.github.io
-PAGINA WEB SISTEMAS INFORMATICOS
